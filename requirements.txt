@@ -1,0 +1,10 @@
+pandas
+langchain-huggingface
+langchain-community
+langgraph
+streamlit
+deep_translator
+lingua-language-detector
+langchain-groq
+huggingface-hub
+python-dotenv
