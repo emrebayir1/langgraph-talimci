@@ -28,7 +28,7 @@ Install the required dependencies with:
     
     pip install -r requirements.txt
 
-Setup
+# Setup
 
 Clone this repository to your local machine:
 
