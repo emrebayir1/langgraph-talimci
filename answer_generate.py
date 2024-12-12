@@ -1,4 +1,3 @@
-from answer_generator import generation_chain
 from state import GraphState
 from typing import Any, Dict
 from langchain_core.output_parsers import StrOutputParser
