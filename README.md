@@ -8,6 +8,10 @@ Features
 - **Dynamic Question Answering**: Provides personalized recommendations based on query results.
 - **LLM Integration**: Enhances query generation and interpretation using LLM models.
 
+# Demo 
+
+[Talimci](https://langgraph-talimci.streamlit.app/)
+
 # Requirements
 
 To run this project, you need the following:
